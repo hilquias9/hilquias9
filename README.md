@@ -4,9 +4,6 @@
 <p align="left">My name is Nick...wait, Nick? and I'm a real person, from Brazil</p>
 
 ###
-<p align="left">From Brazil</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
