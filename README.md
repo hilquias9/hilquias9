@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">My name is Nick...wait, Nick? and I'm a real person, from Brazil</p>
+<p align="left">My name is Nick...wait, Nick? and I'm a real person, from Brazil🤙</p>
 
 ###
 
